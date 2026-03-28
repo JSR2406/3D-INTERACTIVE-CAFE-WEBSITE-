@@ -1,0 +1,5 @@
+{
+  "name": "Brew & Beam 3D (R3F Edition)",
+  "description": "A high-performance 3D coffee shop built with React Three Fiber, Drei, and GSAP for immersive camera walkthroughs.",
+  "requestFramePermissions": []
+}
